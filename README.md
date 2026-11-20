@@ -51,12 +51,6 @@ motto:     "Automate everything that repeats."
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KEGUZEL&bg_color=0D1117&color=00E5FF&line=7B5EA7&point=FF3366&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KEGUZEL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
 ### 📌 Featured projects
 
 <p align="center">

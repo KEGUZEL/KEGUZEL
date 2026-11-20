@@ -39,9 +39,6 @@ motto:     "Automate everything that repeats."
 ### 📊 GitHub stats
 
 <p align="center">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=KEGUZEL&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF3366&currStreakLabel=00E5FF" alt="streak"/>
 </p>
 

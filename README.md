@@ -39,7 +39,6 @@ motto:     "Automate everything that repeats."
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEGUZEL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F0FF" alt="top languages"/>
 </p>
 
 <p align="center">
